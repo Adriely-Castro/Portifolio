@@ -1,2 +1,2 @@
 # Portifolio
-Criação inicial de um portifólio e eriei atualizando conforme for aprimorando habilidades em HTML e CSS.
+Criação inicial de um portifólio e irei atualizando conforme for aprimorando habilidades em HTML e CSS.
